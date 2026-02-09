@@ -1,173 +1,192 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win Fremont Adventure Date Night - $450 Seattle Fun",
+    "navBrandLogoText": "Brennen Clouse",
+    "privacyPolicyLink": "https://docs.google.com/document/d/1NmwpgiFpgYdiVQ3VAe1-q0kgYTM3B_5TUUMzhZ45fN0/edit?usp=sharing"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>a Free Fremont Date Night</span>!",
+    "heroSubheadline": "Climb at SBP, eat at Tavolata, sip at Fremont Brewing, and get Molly Moon’s ice cream. $450 value. Ends March 6.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/h3dc9mtxd1rmy0cw8chbmkrga0.jpg",
+    "promotionDates": "Enter Feb 11 – Mar 6, 2026. Winner announced Mar 6, 2026.",
+    "endDate": "2026-03-07T07:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Fremont Adventure Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is in! Winner will be announced Mar 6, 2026 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Mar 6, 2026—you could be headed out for the perfect Seattle night!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#111111",
+      "#FFFFFF",
+      "#FFEE58"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is confirmed. We’ll draw the winner on Mar 6, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your email on Mar 6. Follow @brenthebroker for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/a752nfepmnrmw0cw8ch80hg8em.jpg",
+        "alt": "Couple bouldering at Seattle Bouldering Project Fremont"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/f7n1c6vf2srmy0cw8chrhgt0tg.jpg",
+        "alt": "Fresh pasta dinner at Tavolata Stone Way"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/nfgqqz868hrmw0cw8cjbhh49v4.jpg",
+        "alt": "Dog-friendly patio beers at Fremont Brewing Urban Beer Garden"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tmjf08xd65rmy0cw8cjb98ym6w.jpg",
+        "alt": "Handmade ice cream cones from Molly Moon’s in Wallingford"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-mountain",
+        "text": "2 day passes + shoe rentals at Seattle Bouldering Project (Fremont)"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-utensils",
+        "text": "Chef-driven dinner credit at Tavolata on Stone Way"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-beer",
+        "text": "Round at Fremont Brewing’s dog-friendly beer garden"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-ice-cream",
+        "text": "Late-night ice cream at Molly Moon’s (Wallingford)"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-gift",
+        "text": "All gift cards sent by email or physical cards"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Fremont Adventure Date Night Package",
+    "value": "$450 Value",
+    "description": "Picture this. You and your date crush a fun bouldering session in Fremont. You smile over fresh pasta on Stone Way. Your dog chills while you enjoy a round at Fremont Brewing’s patio. Then sweet scoops from Molly Moon’s as you stroll Wallingford. No stress. Just a perfect Seattle night in your favorite spots.",
+    "limitedTimeOfferText": "Limited Seattle giveaway — ends Mar 6!",
+    "ctaButtonText": "I Want This Seattle Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Form",
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us about your home goals and favorite Seattle spots."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered",
+        "description": "We draw on Mar 6 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Fast 30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-dog",
+        "text": "Dog-friendly stop included"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-map-marker-alt",
+        "text": "All in Fremont/Wallingford"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Privacy respected"
       }
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Must be 18+ and live in Washington state."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "When does it end?",
+        "a": "Entries close Mar 6, 2026 at 11:59 PM PT. We draw the same day."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "How do I get the prize?",
+        "a": "We send gift cards by email. If needed, we can arrange physical cards."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Are the partners involved?",
+        "a": "No. This giveaway is not sponsored by SBP, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook."
+      },
+      {
+        "q": "Can I enter more than once?",
+        "a": "One entry per person to keep it fair."
+      },
+      {
+        "q": "When must I claim?",
+        "a": "Within 30 days of winning."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Use your best email so we can reach you if you win",
+      "Follow @brenthebroker on Instagram for winner updates",
+      "Share with a friend who loves Fremont",
+      "Answer the 4 questions so we can tailor local tips for you"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We pick the winner at random. Every entry has the same chance. No tricks."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We email the winner on Mar 6, 2026. Check your inbox and spam. Prize must be claimed within 30 days."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-263.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-263.netlify.app%2Fadmin&text=Win%20a%20Free%20Fremont%20Date%20Night%20-%20%24450%20Seattle%20Fun"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for a chance to win this $450 Seattle date night!",
+    "entryCountText": "Seattle locals are entering now—don’t miss out.",
+    "socialSharePrompt": "Know someone who loves Fremont? Share this giveaway:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +208,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -197,8 +216,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -211,7 +230,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,45 +252,33 @@ const config = {
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/brenthebroker/",
+      "instagram": "https://www.instagram.com/brenthebroker"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Brennen Clouse",
+      "title": "REALTOR",
+      "phone": "206-899-9101",
+      "email": "brennen@egreseattle.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not affiliated with Seattle Bouldering Project, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close 2026-03-06 at 11:59 PM PT. Winner selected at random on 2026-03-06. Odds depend on number of entries. Prize must be claimed within 30 days. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1769272484683-Emeralg-Group-Logo_black.png",
+    "secondaryLogoUrl": "https://onereal.widencollective.com/portals/tcbndxev/BrandElements#210f16ca-d1ce-429d-b6bb-b0207e9c992d",
+    "secondaryLogoAlt": "Real Broker LLC Logo",
+    "organizerName": "The Emerald Group",
+    "brokerageName": "Real Broker LLC",
+    "address": "39899 Balentine Dr, Ste 200, Newark, CA, 94560, United States",
+    "email": "brennen@egreseattle.com",
+    "phone": "206-899-9101",
+    "copyrightOwner": "Brennen Clouse"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-263",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-263",
+    "netlifyUrl": "http://Giveaway-263.netlify.app",
+    "netlifyId": "1153711023",
+    "tag": "Fremont Adventure Giveaway"
   }
 };
