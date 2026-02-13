@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is confirmed. We’ll draw the winner on Mar 6, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on Mar 6. Follow @brenthebroker for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -132,8 +127,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -166,6 +159,8 @@ const config = {
       "Share with a friend who loves Fremont",
       "Answer the 4 questions so we can tailor local tips for you"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick the winner at random. Every entry has the same chance. No tricks."
@@ -186,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1771017937716_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1771017937716_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1771017937716_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -252,6 +247,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is confirmed. We’ll draw the winner on Mar 6, 2026 and email them. Good luck!",
+    "socialPromptText": "Watch your email on Mar 6. Follow @brenthebroker for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/brenthebroker/",
@@ -265,7 +272,7 @@ const config = {
     },
     "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not affiliated with Seattle Bouldering Project, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close 2026-03-06 at 11:59 PM PT. Winner selected at random on 2026-03-06. Odds depend on number of entries. Prize must be claimed within 30 days. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1769272484683-Emeralg-Group-Logo_black.png",
-    "secondaryLogoUrl": "https://onereal.widencollective.com/portals/tcbndxev/BrandElements#210f16ca-d1ce-429d-b6bb-b0207e9c992d",
+    "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Real Broker LLC Logo",
     "organizerName": "The Emerald Group",
     "brokerageName": "Real Broker LLC",
