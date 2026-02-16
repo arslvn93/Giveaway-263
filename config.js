@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/a752nfepmnrmw0cw8ch80hg8em.jpg",
+        "src": "https://fremontclubhouse.com/wp-content/uploads/2023/06/peak-tall2.jpg",
         "alt": "Couple bouldering at Seattle Bouldering Project Fremont"
       },
       {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771265152533_0",
+      "id": "q_auto_1771265312698_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771265152533_1",
+      "id": "q_auto_1771265312698_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771265152533_2",
+      "id": "q_auto_1771265312698_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
