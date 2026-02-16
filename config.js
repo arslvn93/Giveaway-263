@@ -84,9 +84,9 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Form",
-        "description": "Add your name and email. It takes 30 seconds."
+        "icon": "fab fa-instagram",
+        "title": "Follow us on Instagram",
+        "description": "Follow us @brenthebroker"
       },
       {
         "icon": "fas fa-check-circle",
@@ -181,68 +181,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771019044914_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1771264624510_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1771019044914_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1771264624510_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1 - 2 years",
-          "text": "Yes, in the next 1 - 2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
         }
       ]
     },
     {
-      "id": "q_auto_1771019044914_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1771264624510_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
         }
       ]
     }
@@ -255,9 +255,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is confirmed. We’ll draw the winner on Mar 6, 2026 and email them. Good luck!",
-    "socialPromptText": "Watch your email on Mar 6. Follow @brenthebroker for the winner post."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Fremont Adventure Giveaway has been received. Complete your entry below to be eligible for the Mar 6 draw.\n\n",
+    "socialPromptText": "Follow @brenthebroker on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
     "social": {
