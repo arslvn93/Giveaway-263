@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771264624510_0",
+      "id": "q_auto_1771265152533_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771264624510_1",
+      "id": "q_auto_1771265152533_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771264624510_2",
+      "id": "q_auto_1771265152533_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
   },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/brenthebroker/",
+      "facebook": "",
       "instagram": "https://www.instagram.com/brenthebroker"
     },
     "agentContact": {
@@ -272,7 +272,7 @@ const config = {
     },
     "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not affiliated with Seattle Bouldering Project, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close 2026-03-06 at 11:59 PM PT. Winner selected at random on 2026-03-06. Odds depend on number of entries. Prize must be claimed within 30 days. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1769272484683-Emeralg-Group-Logo_black.png",
-    "secondaryLogoUrl": "",
+    "secondaryLogoUrl": "https://photos.zillowstatic.com/fp/5eda14ab20e086f5c60be9a983de129e-h_l.jpg",
     "secondaryLogoAlt": "Real Broker LLC Logo",
     "organizerName": "The Emerald Group",
     "brokerageName": "Real Broker LLC",
