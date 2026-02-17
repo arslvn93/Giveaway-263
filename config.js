@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>a Free Fremont Date Night</span>!",
     "heroSubheadline": "Climb at SBP, eat at Tavolata, sip at Fremont Brewing, and get Molly Moon’s ice cream. $450 value. Ends March 6.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/h3dc9mtxd1rmy0cw8chbmkrga0.jpghttps://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(4).png",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(4).png",
     "promotionDates": "Enter Feb 11 – Mar 6, 2026. Winner announced Mar 6, 2026.",
     "endDate": "2026-03-07T07:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771346886868_0",
+      "id": "q_auto_1771346935663_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771346886868_1",
+      "id": "q_auto_1771346935663_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771346886868_2",
+      "id": "q_auto_1771346935663_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
