@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win Fremont Adventure Date Night - $450 Seattle Fun",
-    "navBrandLogoText": "Brennen Clouse",
+    "navBrandLogoText": "Emerald Group",
     "privacyPolicyLink": "https://docs.google.com/document/d/1NmwpgiFpgYdiVQ3VAe1-q0kgYTM3B_5TUUMzhZ45fN0/edit?usp=sharing"
   },
   "giveaway": {
@@ -86,7 +86,7 @@ const config = {
       {
         "icon": "fab fa-instagram",
         "title": "Follow us on Instagram",
-        "description": "Follow us @brenthebroker"
+        "description": "Follow us @emeraldgroupre"
       },
       {
         "icon": "fas fa-check-circle",
@@ -155,7 +155,7 @@ const config = {
     ],
     "tips": [
       "Use your best email so we can reach you if you win",
-      "Follow @brenthebroker on Instagram for winner updates",
+      "Follow @emeraldgroupre on Instagram for winner updates",
       "Share with a friend who loves Fremont",
       "Answer the 4 questions so we can tailor local tips for you"
     ],
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771347226265_0",
+      "id": "q_auto_1771427901755_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771347226265_1",
+      "id": "q_auto_1771427901755_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771347226265_2",
+      "id": "q_auto_1771427901755_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -257,12 +257,12 @@ const config = {
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
     "mainMessage": "Your information for the Fremont Adventure Giveaway has been received. Complete your entry below to be eligible for the Mar 6 draw.\n\n",
-    "socialPromptText": "Follow @brenthebroker on Instagram to complete your entry - only followers are eligible"
+    "socialPromptText": "Follow us @emeraldgroupre on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
     "social": {
       "facebook": "",
-      "instagram": "https://www.instagram.com/brenthebroker"
+      "instagram": "https://www.instagram.com/emeraldgroupre/"
     },
     "agentContact": {
       "name": "Brennen Clouse",
@@ -270,7 +270,7 @@ const config = {
       "phone": "206-899-9101",
       "email": "brennen@egreseattle.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Brennen Clouse at Real Broker LLC and is not affiliated with Seattle Bouldering Project, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close 2026-03-06 at 11:59 PM PT. Winner selected at random on 2026-03-06. Odds depend on number of entries. Prize must be claimed within 30 days. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Emerald Group at Real Broker LLC and is not affiliated with Seattle Bouldering Project, Tavolata, Fremont Brewing, Molly Moon’s, Instagram, or Facebook. No purchase necessary. Washington residents only. Must be 18+. One entry per person. Entries close 2026-03-06 at 11:59 PM PT. Winner selected at random on 2026-03-06. Odds depend on number of entries. Prize must be claimed within 30 days. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1769272484683-Emeralg-Group-Logo_black.png",
     "secondaryLogoUrl": "https://photos.zillowstatic.com/fp/5eda14ab20e086f5c60be9a983de129e-h_l.jpg",
     "secondaryLogoAlt": "Real Broker LLC Logo",
@@ -279,7 +279,7 @@ const config = {
     "address": "39899 Balentine Dr, Ste 200, Newark, CA, 94560, United States",
     "email": "brennen@egreseattle.com",
     "phone": "206-899-9101",
-    "copyrightOwner": "Brennen Clouse"
+    "copyrightOwner": "The Emerald Group"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-263",
