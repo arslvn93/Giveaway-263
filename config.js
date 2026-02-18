@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771427901755_0",
+      "id": "q_auto_1771448401941_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771427901755_1",
+      "id": "q_auto_1771448401941_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,11 +221,15 @@ const config = {
         {
           "value": "Invest in property",
           "text": "Invest in property"
+        },
+        {
+          "value": "Staying put",
+          "text": "Staying put"
         }
       ]
     },
     {
-      "id": "q_auto_1771427901755_2",
+      "id": "q_auto_1771448401941_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -243,6 +247,10 @@ const config = {
         {
           "value": "12+ months",
           "text": "12+ months"
+        },
+        {
+          "value": "No plans",
+          "text": "No plans"
         }
       ]
     }
