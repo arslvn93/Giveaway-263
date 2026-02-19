@@ -8,14 +8,14 @@ const config = {
     "heroHeadline": "Win <span class='highlight'>a Free Fremont Date Night</span>!",
     "heroSubheadline": "Climb at SBP, eat at Tavolata, sip at Fremont Brewing, and get Molly Moon’s ice cream. $450 value. Ends March 6.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-THUMBNAILS(6).png",
-    "promotionDates": "Enter Feb 11 – Mar 6, 2026. Winner announced Mar 6, 2026.",
-    "endDate": "2026-03-07T07:59:00.000Z",
+    "promotionDates": "Enter Feb 20 – Mar 12, 2026. Winner announced Mar 13, 2026.",
+    "endDate": "2026-03-12T10:30:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Fremont Adventure Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is in! Winner will be announced Mar 6, 2026 and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email on Mar 6, 2026—you could be headed out for the perfect Seattle night!"
+    "successModalMainMessage": "Your entry for the <strong>Fremont Adventure Giveaway</strong> is in! Winner will be announced Mar 13, 2026 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Mar 13, 2026—you could be headed out for the perfect Seattle night!"
   },
   "settings": {
     "confettiColors": [
@@ -78,7 +78,7 @@ const config = {
     "name": "Fremont Adventure Date Night Package",
     "value": "$450 Value",
     "description": "Picture this. You and your date crush a fun bouldering session in Fremont. You smile over fresh pasta on Stone Way. Your dog chills while you enjoy a round at Fremont Brewing’s patio. Then sweet scoops from Molly Moon’s as you stroll Wallingford. No stress. Just a perfect Seattle night in your favorite spots.",
-    "limitedTimeOfferText": "Limited Seattle giveaway — ends Mar 6!",
+    "limitedTimeOfferText": "Limited Seattle giveaway - ends Mar 12!",
     "ctaButtonText": "I Want This Seattle Night!"
   },
   "howToEnter": {
@@ -96,7 +96,7 @@ const config = {
       {
         "icon": "fas fa-trophy",
         "title": "You’re Entered",
-        "description": "We draw on Mar 6 and email the winner."
+        "description": "We draw on Mar 13 and email the winner."
       }
     ],
     "highlights": [
@@ -134,7 +134,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close Mar 6, 2026 at 11:59 PM PT. We draw the same day."
+        "a": "Entries close Mar 12, 2026 at 11:59 PM PT. We draw the same day."
       },
       {
         "q": "How do I get the prize?",
@@ -167,7 +167,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Notification",
-      "text": "We email the winner on Mar 6, 2026. Check your inbox and spam. Prize must be claimed within 30 days."
+      "text": "We email the winner on Mar 13, 2026. Check your inbox and spam. Prize must be claimed within 30 days."
     }
   },
   "entryForm": {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1771448401941_0",
+      "id": "q_auto_1771527934751_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448401941_1",
+      "id": "q_auto_1771527934751_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1771448401941_2",
+      "id": "q_auto_1771527934751_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -264,7 +264,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "Almost there!",
-    "mainMessage": "Your information for the Fremont Adventure Giveaway has been received. Complete your entry below to be eligible for the Mar 6 draw.\n\n",
+    "mainMessage": "Your information for the Fremont Adventure Giveaway has been received. Complete your entry below to be eligible for the Mar 13 draw.\n\n",
     "socialPromptText": "Follow us @emeraldgroupre on Instagram to complete your entry - only followers are eligible"
   },
   "footerContact": {
